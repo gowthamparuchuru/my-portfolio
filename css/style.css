@@ -861,6 +861,10 @@ body:after {
   background: #fff;
 }
 
+
+.star-rating{
+  color: #666666;
+}
 .position-relative {
   position: relative;
 }
